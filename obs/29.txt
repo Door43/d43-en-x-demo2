@@ -1,4 +1,6 @@
-====== 29. The Parable of the Unmerciful Servant ======
+====== 29. The Parable of the Merciless Servent ======
+
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg}}
 
@@ -29,6 +31,7 @@ But that servant felled down, and prayed him, and said, Have patience in me, and
 But that servant went out, and found one of his even-servants, that owed him an hundred pence; and he held him, and strangled him, and said, Yield that that thou owest. 
 
 
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg}}
 
 And his even-servant fell down, and prayed him, and said, Have patience in me, and I shall requite all things to thee. But he would not; but went out, and put him into prison, till he had paid all the debt.
@@ -51,4 +54,6 @@ Then his lord called him, and said to him, Wicked servant, I forgave to thee all
 
 So my Father of heaven shall do to you, if ye forgive not every man to his brother, of your hearts.
 
-//A Bible story from: Matthew 18:21-35//
+
+
+// A Bible story from: Matthew 18:21-35 //
