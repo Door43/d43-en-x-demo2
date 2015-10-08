@@ -1,8 +1,11 @@
 ====== 33. The Parable of the Sower ======
 
+
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
 
-And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.
+And Jesus was teaching by the sea and there was a great crowd gathered, so many that he went out on a boat, and the crowd was listening to him from the shore.
+
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
@@ -10,9 +13,11 @@ And he began again to teach by the sea side: and there was gathered unto him a g
 He spake by a parable: A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it.
 
 
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
 
 Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth: And when the sun was up, they were scorched; and because they had no root, they withered away.
+
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
@@ -20,9 +25,11 @@ Some fell upon stony places, where they had not much earth: and forthwith they s
 And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit.
 
 
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
 
 And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred. And he said unto them, He that hath ears to hear, let him hear.
+
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
@@ -30,9 +37,11 @@ And other fell on good ground, and did yield fruit that sprang up and increased;
 And his disciples asked him, saying, What might this parable be? And he said, the parable is this: The seed is the word of God. Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.
 
 
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
 
 They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.
+
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
@@ -40,8 +49,11 @@ They on the rock are they, which, when they hear, receive the word with joy; and
 And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection.
 
 
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
 
 But that on the good ground are they, having heard the word, keep it, and bring forth fruit with patience.
 
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
+
+
+// A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15 //
