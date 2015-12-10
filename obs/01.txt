@@ -4,7 +4,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg}}
 
-im translating!
+This is a test translation!
 
 
 
@@ -99,3 +99,7 @@ When the seventh day came, God had finished his work. So God rested from all he 
 
 
 A Bible story from: Genesis 1-2 (missing italics)
+
+
+
+//  //
